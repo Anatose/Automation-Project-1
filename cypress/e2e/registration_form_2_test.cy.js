@@ -134,6 +134,7 @@ Assignement 5: create more visual tests
             const actual = [...options].map(option => option.value)
             expect(actual).to.deep.eq(['dog', 'cat', 'snake', 'hippo','spider','mouse'])
         })
+        //commit
 
 })
 
